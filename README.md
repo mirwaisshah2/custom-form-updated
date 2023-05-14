@@ -1,6 +1,12 @@
-# Form Builder React JS + Redux + Dexie Indexed DB
+# Form Builder React JS + Redux
 
- create form builder under React JS + Redux thunk w
+ create form builder under React JS + Redux thunk 
+
+## Versions
+
+PLease use nvm to switch to node v10
+
+This is becuase of a favorite data picker library
 
 ## Clone & Install
 
